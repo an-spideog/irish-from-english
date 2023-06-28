@@ -6,59 +6,59 @@ Skill:
     - money1
 
 New words:
-  - Word: an t-airgead
-    Translation: the money 
+  - Word: '{an t-airgead}'
+    Translation: '{the money}'
     Also accepted:
       - the silver
     Images:
       - money1
 
-  - Word: an bainne
-    Translation: the milk
+  - Word: '{an bainne}'
+    Translation: '{the milk}'
     Images: 
       - milk1
 
-  - Word: an bosca
-    Translation: the box
+  - Word: '{an bosca}'
+    Translation: '{the box}'
 
-  - Word: an bóthar
-    Translation: the road
+  - Word: '{an bóthar}'
+    Translation: '{the road}'
     Images: 
       - road1
 
-  - Word: an buidéal
-    Translation: the bottle
+  - Word: '{an buidéal}'
+    Translation: '{the bottle}'
 
-  - Word: an dinnéar
-    Translation: the dinner
+  - Word: '{an dinnéar}'
+    Translation: '{the dinner}'
 
-  - Word: an fear
-    Translation: the man
+  - Word: '{an fear}'
+    Translation: '{the man}'
     Images:
       - man1
 
-  - Word: an t-iasc
-    Translation: the fish
+  - Word: '{an t-iasc}'
+    Translation: '{the fish}'
     Images: 
       - fish1
 
-  - Word: an lá
+  - Word: '{an lá}'
     Translation: the day
     Images: 
       - afternoon1
 
-  - Word: an leabhar
+  - Word: '{an leabhar}'
     Translation: the book
     Images: 
       - book1 
 
-  - Word: an t-úll
+  - Word: '{an t-úll}'
     Translation: an apple
 
-  - Word: an t-arbhar
+  - Word: '{an t-arbhar}'
     Translation: corn
 
-  - Word: an garsún
+  - Word: '{an garsún}'
     Translation: the boy
     Also accepted:
       - the guy
