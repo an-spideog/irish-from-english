@@ -62,7 +62,7 @@ New words:
       - just
 
 Phrases:
-  - Phrase: Tá an bosca lán
+  - Phrase: Tá {an bosca} lán
     Translation: '{The box} is full'
 
   - Phrase: Tá buidéal ansan
@@ -71,29 +71,29 @@ Phrases:
       - There's a bottle there
       - A bottle is there
   
-  - Phrase: Tá an leabhar caillte
-    Translation: The book is lost
+  - Phrase: 'Tá {an leabhar} caillte'
+    Translation: '{The book} is lost'
     Alternative translations:
       - The book's lost
 
-  - Phrase: Tá an bóthar díreach
-    Translation: The road is straight
+  - Phrase: Tá {an bóthar} díreach
+    Translation: '{The road} is straight'
 
-  - Phrase: Tá an t-iasc úr
-    Translation: The fish is fresh
+  - Phrase: Tá {an t-iasc} úr
+    Translation: '{The fish} is fresh'
     Alternative translations:
       - The fish's fresh
     
-  - Phrase: Tá an garsún breoite
-    Translation: The boy is sick
+  - Phrase: Tá {an garsún} breoite
+    Translation: '{The boy} is sick'
     Alternative translations:
       - The lad is sick
       - The lad's sick
       - The guy is sick
       - The guy's sick
   
-  - Phrase: Tá an fear tuirseach
-    Translation: The man is tired
+  - Phrase: Tá {an fear} tuirseach
+    Translation: '{The man} is tired'
     Alternative translations:
       - The man's tired
 
