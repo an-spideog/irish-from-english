@@ -18,19 +18,19 @@ New words:
       - milk1
 
   - Word: bosca
-    Translation: a box
+    Translation: '{a box}'
     Also acccepted:
       - box
 
   - Word: bóthar
-    Translation: a road
+    Translation: '{a road}'
     Also accepted:
       - road
     Images: 
       - road1
 
   - Word: buidéal
-    Translation: a bottle
+    Translation: '{a bottle}'
     Also accepted: 
       - bottle
 
@@ -40,35 +40,35 @@ New words:
       - a dinner
 
   - Word: fear
-    Translation: a man
+    Translation: '{a man}'
     Also accepted: 
       - man
     Images:
       - man1
 
   - Word: iasc
-    Translation: a fish
+    Translation: '{a fish}'
     Also accepted:
       - fish
     Images: 
       - fish1
 
   - Word: lá
-    Translation: a day
+    Translation: '{a day}'
     Also accepted:
       - day
     Images: 
       - afternoon1
 
   - Word: leabhar
-    Translation: a book
+    Translation: '{a book}'
     Also accepted:
       - book
     Images: 
       - book1 
   
   - Word: úll
-    Translation: an apple
+    Translation: '{an apple}'
     Also accepted:
       - apple
 
@@ -84,11 +84,3 @@ New words:
       - boy1
 
 Phrases: []
-
-Mini-dictionary:
-  English:
-    - a: '-'
-    - an: '-'
-  
-  Irish: []
-

@@ -63,7 +63,7 @@ New words:
 
 Phrases:
   - Phrase: Tá an bosca lán
-    Translation: The box is full
+    Translation: '{The box} is full'
 
   - Phrase: Tá buidéal ansan
     Translation: 'There is {a bottle} there'
@@ -72,7 +72,7 @@ Phrases:
       - A bottle is there
   
   - Phrase: Tá an leabhar caillte
-    Translation: The book is lost
+    Translation: 'The book' is lost
     Alternative translations:
       - The book's lost
 
