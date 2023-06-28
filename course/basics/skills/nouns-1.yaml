@@ -2,7 +2,7 @@ Skill:
   Name: Nouns 1
   Id: 9bcc5a54-f7f9-4fe7-9024-0823fa3462e3
   Thumbnails:
-    - box1
+    - money1
 
 New words:
   - Word: airgead
@@ -20,7 +20,6 @@ New words:
     Translation: a box
     Also acccepted:
       - box
-    Images: box1
 
   - Word: bóthar
     Translation: a road
@@ -33,15 +32,11 @@ New words:
     Translation: a bottle
     Also accepted: 
       - bottle
-    Images: 
-      - bottle1
 
   - Word: dinnéar
     Translation: dinner
     Also accepted:
       - a dinner
-    Images: 
-      - dinner1
 
   - Word: fear
     Translation: a man
@@ -75,13 +70,9 @@ New words:
     Translation: an apple
     Also accepted:
       - apple
-    Images:
-      - apple1
 
   - Word: arbhar
     Translation: corn
-    Images:
-      - corn1
 
   - Word: garsún
     Translation: boy
