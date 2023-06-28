@@ -1,0 +1,118 @@
+Skill:
+  Name: Tá 1
+  Id: 8bdb0f85-2698-4c8f-8092-a92c5f18ce09 
+  Thumbnails:
+    - milk1
+
+New words:
+  - Word: tá
+    Translation: is
+    Also accepted:
+      - are
+
+  - Word: ansan
+    Translation: there
+    Also accepted:
+      - then
+    Images:
+      - there1
+
+  - Word: anso
+    Translation: here
+    Images:
+      - here1
+  
+  - Word: breoite
+    Translation: sick
+    Also accepted:
+      - ill
+    Images:
+       - sick1
+
+
+  - Word: brónach
+    Translation: sad
+    Images:
+      - sad1
+
+  - Word: caillte
+    Translation: lost
+    Images:
+      - lost1
+
+  - Word: folamh
+    Translation: empty
+    Images:
+      - empty1
+  
+  - Word: fuar
+    Translation: cold
+    Images:
+      - cold1
+  
+  - Word: lán
+    Translation: full
+    Images:
+      - full1
+
+  - Word: tuirseach
+    Translation: tired
+    Images:
+      - tired1
+    
+  - Word: úr
+    Translation: fresh
+    Also accepted:
+      - new
+    Images:
+      - fresh1
+  
+  - Word: sé
+    Translation: he
+    Also accepted:
+      - it
+    Images:
+      - man1
+  
+  - Word: díreach
+    Translation: straight
+    Also accepted:
+      - exact
+      - exactly
+      - just
+
+Phrases:
+  - Phrase: Tá an bosca lán
+    Translation: The box is full
+
+  - Phrase: Tá buidéal ansan
+    Translation: There is a bottle there
+    Alternative translations:
+      - There's a bottle there
+      - A bottle is there
+  
+  - Phrase: Tá an leabhar caillte
+    Translation: The book is lost
+    Alternative translations:
+      - The book's lost
+
+  - Phrase: Tá an bóthar díreach
+    Translation: The road is straight
+
+  - Phrase: Tá an t-iasc úr
+    Translation: The fish is fresh
+    Alternative translations:
+      - The fish's fresh
+    
+  - Phrase: Tá an garsún breoite
+    Translation: The boy is sick
+    Alternative translations:
+      - The lad is sick
+      - The lad's sick
+      - The guy is sick
+      - The guy's sick
+  
+  - Phrase: Tá an fear tuirseach
+    Translation: The man is tired
+    Alternative translations:
+      - The man's tired

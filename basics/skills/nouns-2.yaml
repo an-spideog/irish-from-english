@@ -1,0 +1,75 @@
+Skill:
+  Name: Nouns 2
+  Id: 8bdb0f85-2698-4c8f-8092-a92c5f18ce09 
+  Thumbnails:
+    - fish2
+    - money1
+
+New words:
+  - Word: an t-airgead
+    Translation: the money 
+    Also accepted:
+      - the silver
+    Images:
+      - money1
+
+  - Word: an bainne
+    Translation: the milk
+    Images: milk1
+
+  - Word: an bosca
+    Translation: the box
+    Images: box1
+
+  - Word: an bóthar
+    Translation: the road
+    Images: 
+      - road1
+
+  - Word: an buidéal
+    Translation: the bottle
+    Images: 
+      - bottle1
+
+  - Word: an dinnéar
+    Translation: the dinner
+    Images: 
+      - dinner1
+
+  - Word: an fear
+    Translation: the man
+    Images:
+      - man1
+
+  - Word: an t-iasc
+    Translation: the fish
+    Images: 
+      - fish1
+
+  - Word: an lá
+    Translation: the day
+    Images: 
+      - afternoon1
+
+  - Word: an leabhar
+    Translation: the book
+    Images: 
+      - book1 
+
+  - Word: an t-úll
+    Translation: an apple
+    Images:
+      - apple1
+
+  - Word: an t-arbhar
+    Translation: corn
+    Images:
+      - corn1
+
+  - Word: an garsún
+    Translation: the boy
+    Also accepted:
+      - the guy
+      - the lad
+    Images:
+      - boy1

@@ -1,0 +1,91 @@
+Skill:
+  Name: Nouns 1
+  Id: 9bcc5a54-f7f9-4fe7-9024-0823fa3462e3
+  Thumbnails:
+
+New words:
+  - Word: airgead
+    Translation: money 
+    Also accepted:
+      - silver
+    Images:
+      - money1
+
+  - Word: bainne
+    Translation: milk
+    Images: milk1
+
+  - Word: bosca
+    Translation: a box
+    Also acccepted:
+      - box
+    Images: box1
+
+  - Word: bóthar
+    Translation: a road
+    Also accepted:
+      - road
+    Images: 
+      - road1
+
+  - Word: buidéal
+    Translation: a bottle
+    Also accepted: 
+      - bottle
+    Images: 
+      - bottle1
+
+  - Word: dinnéar
+    Translation: dinner
+    Also accepted:
+      - a dinner
+    Images: 
+      - dinner1
+
+  - Word: fear
+    Translation: a man
+    Also accepted: 
+      - man
+    Images:
+      - man1
+
+  - Word: iasc
+    Translation: a fish
+    Also accepted:
+      - fish
+    Images: 
+      - fish1
+
+  - Word: lá
+    Translation: a day
+    Also accepted:
+      - day
+    Images: 
+      - afternoon1
+
+  - Word: leabhar
+    Translation: a book
+    Also accepted:
+      - book
+    Images: 
+      - book1 
+  
+  - Word: úll
+    Translation: an apple
+    Also accepted:
+      - apple
+    Images:
+      - apple1
+
+  - Word: arbhar
+    Translation: corn
+    Images:
+      - corn1
+
+  - Word: garsún
+    Translation: boy
+    Also accepted:
+      - lad
+      - guy
+    Images:
+      - boy1
