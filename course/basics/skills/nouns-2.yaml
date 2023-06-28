@@ -43,23 +43,23 @@ New words:
       - fish1
 
   - Word: '{an lá}'
-    Translation: the day
+    Translation: '{the day}'
     Images: 
       - afternoon1
 
   - Word: '{an leabhar}'
-    Translation: the book
+    Translation: '{the book}'
     Images: 
       - book1 
 
   - Word: '{an t-úll}'
-    Translation: an apple
+    Translation: '{the apple}'
 
   - Word: '{an t-arbhar}'
-    Translation: corn
+    Translation: '{the corn}'
 
   - Word: '{an garsún}'
-    Translation: the boy
+    Translation: '{the boy}'
     Also accepted:
       - the guy
       - the lad
