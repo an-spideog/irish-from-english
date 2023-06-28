@@ -15,7 +15,8 @@ New words:
 
   - Word: an bainne
     Translation: the milk
-    Images: milk1
+    Images: 
+      - milk1
 
   - Word: an bosca
     Translation: the box
