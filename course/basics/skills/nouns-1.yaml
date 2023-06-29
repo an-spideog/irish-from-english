@@ -3,6 +3,8 @@ Skill:
   Id: 9bcc5a54-f7f9-4fe7-9024-0823fa3462e3
   Thumbnails:
     - money1
+    - man1
+    - book1
 
 New words:
   - Word: airgead
@@ -11,16 +13,22 @@ New words:
       - silver
     Images:
       - money1
+      - money2
+      - money3
 
   - Word: bainne
     Translation: milk
     Images: 
       - milk1
+      - milk2
+      - milk3
 
   - Word: bosca
     Translation: '{a box}'
     Also acccepted:
       - box
+    Images:
+      - black1
 
   - Word: bóthar
     Translation: '{a road}'
@@ -28,16 +36,22 @@ New words:
       - road
     Images: 
       - road1
+      - road2
+      - road3
 
   - Word: buidéal
     Translation: '{a bottle}'
     Also accepted: 
       - bottle
+    Images:
+      - black1
 
   - Word: dinnéar
     Translation: dinner
     Also accepted:
       - a dinner
+    Images:
+      - black1
 
   - Word: fear
     Translation: '{a man}'
@@ -45,6 +59,8 @@ New words:
       - man
     Images:
       - man1
+      - man2
+      - man3
 
   - Word: iasc
     Translation: '{a fish}'
@@ -52,6 +68,8 @@ New words:
       - fish
     Images: 
       - fish1
+      - fish2
+      - fish3
 
   - Word: lá
     Translation: '{a day}'
@@ -59,6 +77,9 @@ New words:
       - day
     Images: 
       - afternoon1
+      - afternoon2
+      - afternoon3
+      - beach1
 
   - Word: leabhar
     Translation: '{a book}'
@@ -66,14 +87,20 @@ New words:
       - book
     Images: 
       - book1 
+      - book2
+      - book3
   
   - Word: úll
     Translation: '{an apple}'
     Also accepted:
       - apple
+    Images:
+      - black1
 
   - Word: arbhar
     Translation: corn
+    Images:
+      - black1
 
   - Word: garsún
     Translation: boy
@@ -82,5 +109,7 @@ New words:
       - guy
     Images:
       - boy1
+      - boy2
+      - boy3
 
 Phrases: []
