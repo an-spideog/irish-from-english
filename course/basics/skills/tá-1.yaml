@@ -3,49 +3,80 @@ Skill:
   Id: 8bdb0f85-2698-4c8f-8092-a92c5f18ce09 
   Thumbnails:
     - milk1
+    - there2
+    - here1
 
 New words:
   - Word: tá
     Translation: is
     Also accepted:
       - are
+    Images:
+      - black1
 
   - Word: ansan
     Translation: there
     Also accepted:
       - then
+    Images:
+      - there1
+      - there2
+      - there3
 
   - Word: anso
     Translation: here
+    Images:
+      - here1
+      - here2
+      - here3
   
   - Word: breoite
     Translation: sick
     Also accepted:
       - ill
-
+    Images:
+      - sick1
+      - sick2
+      - sick3
 
   - Word: brónach
     Translation: sad
+    Images:
+      - black1
 
   - Word: caillte
     Translation: lost
+    Images:
+      - black1
 
   - Word: folamh
     Translation: empty
+    Images:
+      - black1
   
   - Word: fuar
     Translation: cold
+    Images:
+      - cold1
+      - cold2
+      - cold3
   
   - Word: lán
     Translation: full
+    Images: 
+      - black1
 
   - Word: tuirseach
     Translation: tired
+    Images: 
+      - black1
     
   - Word: úr
     Translation: fresh
     Also accepted:
       - new
+    Images:
+      - black1
   
   - Word: sé
     Translation: he
@@ -53,6 +84,11 @@ New words:
       - it
     Images:
       - man1
+      - man2
+      - man3
+      - boy1
+      - boy2
+      - boy3
   
   - Word: díreach
     Translation: straight
@@ -60,6 +96,9 @@ New words:
       - exact
       - exactly
       - just
+    Images:
+      - road1
+      - road2
 
 Phrases:
   - Phrase: Tá {an bosca} lán
