@@ -1,69 +1,97 @@
 Skill:
   Name: Nouns 2
-  Id: 8bdb0f85-2698-4c8f-8092-a92c5f18ce09 
+  Id: 8bdb0f85-2698-4c8f-8092-a92c5f18ce09
   Thumbnails:
     - fish2
-    - money1
+    - money2
+    - milk2
 
 New words:
-  - Word: '{an t-airgead}'
-    Translation: '{the money}'
+  - Word: "{an t-airgead}"
+    Translation: "{the money}"
     Also accepted:
       - the silver
     Images:
       - money1
+      - money2
+      - money3
 
-  - Word: '{an bainne}'
-    Translation: '{the milk}'
-    Images: 
+  - Word: "{an bainne}"
+    Translation: "{the milk}"
+    Images:
       - milk1
+      - milk2
+      - milk3
 
-  - Word: '{an bosca}'
-    Translation: '{the box}'
+  - Word: "{an bosca}"
+    Translation: "{the box}"
+    Images:
+      - black1
 
-  - Word: '{an bóthar}'
-    Translation: '{the road}'
-    Images: 
+  - Word: "{an bóthar}"
+    Translation: "{the road}"
+    Images:
       - road1
+      - road2
+      - road3
 
-  - Word: '{an buidéal}'
-    Translation: '{the bottle}'
+  - Word: "{an buidéal}"
+    Translation: "{the bottle}"
+    Images:
+      - black1
 
-  - Word: '{an dinnéar}'
-    Translation: '{the dinner}'
+  - Word: "{an dinnéar}"
+    Translation: "{the dinner}"
+    Images:
+      - black1
 
-  - Word: '{an fear}'
-    Translation: '{the man}'
+  - Word: "{an fear}"
+    Translation: "{the man}"
     Images:
       - man1
+      - man2
+      - man3
 
-  - Word: '{an t-iasc}'
-    Translation: '{the fish}'
-    Images: 
+  - Word: "{an t-iasc}"
+    Translation: "{the fish}"
+    Images:
       - fish1
+      - fish2
+      - fish3
 
-  - Word: '{an lá}'
-    Translation: '{the day}'
-    Images: 
+  - Word: "{an lá}"
+    Translation: "{the day}"
+    Images:
       - afternoon1
+      - afternoon2
+      - afternoon3
+      - beach1
 
-  - Word: '{an leabhar}'
-    Translation: '{the book}'
-    Images: 
-      - book1 
+  - Word: "{an leabhar}"
+    Translation: "{the book}"
+    Images:
+      - book1
+      - book2
+      - book3
 
-  - Word: '{an t-úll}'
-    Translation: '{the apple}'
+  - Word: "{an t-úll}"
+    Translation: "{the apple}"
+    Images:
+      - black1
 
-  - Word: '{an t-arbhar}'
-    Translation: '{the corn}'
+  - Word: "{an t-arbhar}"
+    Translation: "{the corn}"
+    Images:
+      - black1
 
-  - Word: '{an garsún}'
-    Translation: '{the boy}'
+  - Word: "{an garsún}"
+    Translation: "{the boy}"
     Also accepted:
       - the guy
       - the lad
     Images:
       - boy1
+      - boy2
+      - boy3
 
 Phrases: []
